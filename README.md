@@ -9,7 +9,7 @@ The idb-managed can save these troubles.
 If you want to get something from a database, you only need to provide the name of the database, the table and the item index, that's all. The idb-managed will do the rest for you.
 
 ## Getting Started
-Install logan-web using `npm`:
+Install idb-managed using `npm`:
 
 ```
 npm install --save idb-managed
